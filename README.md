@@ -1,4 +1,8 @@
-
+[![Made withC#](https://img.shields.io/badge/Made%20with-CSharp-Camarone?style=for-the-badge&logo=C#)](https://www.python.org) 
+[![Made withDocker](https://img.shields.io/badge/Made%20with-Docker-blue?style=for-the-badge&logo=Docker)](https://www.docker.com) 
+[![Made withPostgreSQL](https://img.shields.io/badge/Made%20with-PostgreSQL-darkgrey?style=for-the-badge&logo=PostgreSQL)](https://https://www.postgresql.org) 
+[![Made withMongoDB](https://img.shields.io/badge/Made%20with-MongoDB-Pistachio?style=for-the-badge&logo=MongoDB)](https://www.mongodb.com) 
+[![Made withJavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=JavaScript)](https://www.javascript.com) 
 
 
 
