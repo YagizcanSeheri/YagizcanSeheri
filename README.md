@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yağızcan</h1>
 <h3 align="center">Web Developer</h3>
 
-<!--
-**YagizcanSeheri/yagizcanseheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 
@@ -25,4 +23,12 @@
 <a href="https://twitter.com/YagizSeheri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yagizcanseheri" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/yagizcanseheri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yagizcanseheri" height="30" width="30" /></a>
 </p>
+
+
+
+<!--
+**YagizcanSeheri/yagizcanseheri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
