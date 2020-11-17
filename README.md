@@ -1,5 +1,8 @@
 
-</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizcanseheri&layout=compact&hide=html" alt="yagizcanseheri" /></p>
+</p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagizcanseheri&layout=compact&hide=html" alt="yagizcanseheri" /></p> 
+</br>
+</br>
+</br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagizcanseheri&show_icons=true" alt="yagizcanseheri" /></p>
 
