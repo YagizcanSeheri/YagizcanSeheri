@@ -13,17 +13,6 @@
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
 
 
-- 💻 I’m currently learning **Pyhton**
-
-- 👨‍ All of my projects are available at [YagizcanSeheri](https://github.com/YagizcanSeheri?tab=repositories)
-
-- 💬 Ask me about **![CSharp](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c%20sharp&logoColor=fff)**
-
-- 📫 How to reach me **yagizcanseheri@gmail.com**
-
-- ⚡ Fun fact **null**
-
-
 <p align="center">
 <a href="https://www.linkedin.com/in/yagizcanseheri/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yagizcanseheri" height="30" width="30" /></a>
 </p>
