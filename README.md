@@ -1,6 +1,6 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizcanseheri&layout=compact)](https://github.com/yagizcanseheri/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yagizcanseheri&show_icons=true" alt="yagizcanseheri" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizcanseheri&count_private=true&layout=demo&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=yagizcanseheri&count_private=true&theme=gotham&show_icons=true)
+
 
 
 
